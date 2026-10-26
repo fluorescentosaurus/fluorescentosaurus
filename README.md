@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello
+
+### first commit as cytometry in R course requests of me
+
+#### Cytometry in ***R***
+
+- favorite fluorochrome: Brilliant Violet 421
+- least favorite fluorochrome: PE - for intracyto
+- Previous coding experience: 0 (zero)
+- What I hope to get out of this course: a new dimension on understanding the data that I analyse
 
 <!--
 **fluorescentosaurus/fluorescentosaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
